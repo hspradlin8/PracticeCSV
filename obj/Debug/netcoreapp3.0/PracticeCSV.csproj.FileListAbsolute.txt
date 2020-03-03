@@ -1,0 +1,11 @@
+/Users/Heidi/workspace/PracticeCSV/bin/Debug/netcoreapp3.0/PracticeCSV
+/Users/Heidi/workspace/PracticeCSV/bin/Debug/netcoreapp3.0/PracticeCSV.deps.json
+/Users/Heidi/workspace/PracticeCSV/bin/Debug/netcoreapp3.0/PracticeCSV.runtimeconfig.json
+/Users/Heidi/workspace/PracticeCSV/bin/Debug/netcoreapp3.0/PracticeCSV.runtimeconfig.dev.json
+/Users/Heidi/workspace/PracticeCSV/bin/Debug/netcoreapp3.0/PracticeCSV.dll
+/Users/Heidi/workspace/PracticeCSV/bin/Debug/netcoreapp3.0/PracticeCSV.pdb
+/Users/Heidi/workspace/PracticeCSV/obj/Debug/netcoreapp3.0/PracticeCSV.csprojAssemblyReference.cache
+/Users/Heidi/workspace/PracticeCSV/obj/Debug/netcoreapp3.0/PracticeCSV.AssemblyInfoInputs.cache
+/Users/Heidi/workspace/PracticeCSV/obj/Debug/netcoreapp3.0/PracticeCSV.AssemblyInfo.cs
+/Users/Heidi/workspace/PracticeCSV/obj/Debug/netcoreapp3.0/PracticeCSV.dll
+/Users/Heidi/workspace/PracticeCSV/obj/Debug/netcoreapp3.0/PracticeCSV.pdb

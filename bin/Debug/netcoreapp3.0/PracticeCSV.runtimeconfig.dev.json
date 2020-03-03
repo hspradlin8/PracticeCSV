@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Heidi/.dotnet/store/|arch|/|tfm|",
+      "/Users/Heidi/.nuget/packages"
+    ]
+  }
+}
